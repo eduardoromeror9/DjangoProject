@@ -187,6 +187,29 @@ nav > ul > li:hover  ul > li:hover a {
     border-radius: 5px;
 }
 
+
+.box .image {
+    width: 45%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.box .image img{
+    width: 100%;
+}
+
+
+.box a {
+    transition: all 300ms;
+    color: #444;
+}
+
+
+.box a:hover {
+    color: #2ba977;
+}
+
 .box form {
     width: 40%;
 }
